@@ -37,9 +37,3 @@ This repository contains solutions for five different machine learning problems 
 - Target MAE: < 0.15
 
 ---
-
-## How to Run
-
-1. Install the required libraries:
-   ```bash
-   pip install tensorflow tensorflow-datasets numpy keras
